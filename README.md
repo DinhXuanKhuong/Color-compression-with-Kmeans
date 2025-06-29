@@ -13,3 +13,5 @@
 - To understand the trade-off between image quality and compression efficiency.
 - To visualize and compare the results of different K values.
 - To gain practical experience with machine learning algorithm – k-means.
+## More detailed
+-> read my report.
